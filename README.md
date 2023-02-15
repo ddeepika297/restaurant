@@ -1,4 +1,4 @@
-Approach
+Notes
 1) Have rearranged inputRestaurant in the form of map of maps, this would result in easily quering the data and providing the required result
 2) Have used various design patters like strategy, factory and builder problem. These help in mainting the code and making it extensible 
 3) Have put up just basic loggers
